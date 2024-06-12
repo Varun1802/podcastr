@@ -1,7 +1,7 @@
 import React from "react";
 
 const PodcastDetailPlayer = () => {
-  return <div>PodcastDetailPlayer</div>;
+  return <div className="text-xl text-white-1">PodcastDetailPlayer</div>;
 };
 
 export default PodcastDetailPlayer;
